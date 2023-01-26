@@ -6,5 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+Please fork this repo and issue pull request for review
 
 2023 
